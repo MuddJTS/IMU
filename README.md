@@ -1,7 +1,9 @@
-# IMU Subsystem Team
-*Electronics and Telemetry*
+# MEMS IMU Subsystem
+*Electronics and Telemetry Team*
 
-*Members: Catherine Phillips, Kaanthi Pandhigunta, Ruth Muelller, and Nico Espinosa Dice*
+**Members**: Catherine Phillips, Kaanthi Pandhigunta, Ruth Muelller, and Nico Espinosa Dice
+
+**Responsibilities**: Fuse accelerometers, gyroscopes, and magnetometers to determine orientation and position of rocket in space. Includes circuit development, algorithm development and filtering.
 
 ## Folders
 
