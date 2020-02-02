@@ -14,7 +14,7 @@ Contains dataset created using the Structures/Aerodynamic team's Matlab script t
 Contains our sensor fusion algorithm (implemented in Python, not finished) for determining orientation, as well as a link to the paper whose algorithm we are using.
 
 ### Kalman Filter - Python ###
-Contains multiple Kalman filter implementations (Python), as well as the links to the paper/website they were adapted from.
+Contains multiple Kalman filter implementations (Python), as well as the links to the paper/website they were adapted from.  
 **Currently working on: Kalman Filter 4**
 
 ### Kalman Filter - Matlab ###
