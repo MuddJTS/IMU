@@ -17,5 +17,8 @@ Contains our sensor fusion algorithm (implemented in Python, not finished) for d
 Contains multiple Kalman filter implementations (Python), as well as the links to the paper/website they were adapted from.  
 **Currently working on**: Kalman Filter 4
 
+### MPU9250 Code ###
+Contains Arduino code for MPU2950 IMU.
+
 ### Kalman Filter - Matlab ###
 Contains an unfinished Kalman filter implemented in Matlab. We will not be using or developing this implementation any further.
